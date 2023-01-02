@@ -1,6 +1,3 @@
-# phpmysql
-coding of php, mysql, bootstrap, jquery
-
 # Submit HTML form To MySQL Database An Example 
 
 ## About
