@@ -15,6 +15,7 @@ $txtPhone = $_POST['txtPhone'];
 $txtMessage = $_POST['txtMessage'];
 
 // database insert SQL code
+	
 $sql = "INSERT INTO `tbl_contact` (`Id`, `fldName`, `fldEmail`, `fldPhone`, `fldMessage`) VALUES ('0', '$txtName', '$txtEmail', '$txtPhone', '$txtMessage')";
 
 // insert in database 
