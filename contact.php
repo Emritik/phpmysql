@@ -19,6 +19,7 @@ $txtMessage = $_POST['txtMessage'];
 $sql = "INSERT INTO `tbl_contact` (`Id`, `fldName`, `fldEmail`, `fldPhone`, `fldMessage`) VALUES ('0', '$txtName', '$txtEmail', '$txtPhone', '$txtMessage')";
 
 // insert in database 
+	
 $rs = mysqli_query($con, $sql);
 if($rs)
 {
