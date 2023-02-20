@@ -25,6 +25,7 @@ CREATE TABLE `tbl_contact` (
 -- Indexes for dumped tables
 --
 
+
 --
 -- Indexes for table `tbl_contact`
 --
