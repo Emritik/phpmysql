@@ -20,6 +20,7 @@ CREATE TABLE `tbl_contact` (
   `fldMessage` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+
 --
 -- Indexes for dumped tables
 --
