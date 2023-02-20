@@ -30,6 +30,7 @@ CREATE TABLE `tbl_contact` (
 -- Indexes for table `tbl_contact`
 --
 
+
 ALTER TABLE `tbl_contact`
  ADD PRIMARY KEY (`id`);
 
